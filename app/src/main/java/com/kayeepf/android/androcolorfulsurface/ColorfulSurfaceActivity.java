@@ -44,8 +44,6 @@ public class ColorfulSurfaceActivity extends Activity {
 
             }
         });
-        LayoutParams 
-        seekBar.setLayoutParams();
         linearLayout.addView(seekBar);
 
         surfaceView = new SurfaceView(getApplicationContext());
